@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Wizard",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"replaces": "Warrior",
+		"movement": 10,
+		"strength": 200,
+		"rangedStrength": 300,
+		"range": 8,
+		"cost": 50,
 	}
 ]
