@@ -18,8 +18,6 @@
 		"replaces": "Scout",
 		"movement": 15,
 		"strength": 200,
-		"rangedStrength": 100,
-		"range": 2,
 		"cost": 50,
 	}
 ]
